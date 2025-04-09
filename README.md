@@ -1,2 +1,2 @@
-# codeSandBox
-Created with CodeSandbox
+# Custom Marker Demo using Leaflet/React
+
